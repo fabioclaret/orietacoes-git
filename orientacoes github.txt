@@ -1,0 +1,19 @@
+1 - Criar o repositorio
+terminal git init 
+git add . 
+git commit -m"mensagem"
+
+2 - copiar o endereco do repositorio em https
+
+3- git remote add orign https://github.com/fabioclaret/git-teste-java.git
+
+4 - git push origin master
+
+5 reinicializar o git 
+git init
+
+6- git add . adiciona todas as alteracoes
+
+7 - git commit -m"mensagem" comitar as alteracoes local
+
+8 - git push origin master 
