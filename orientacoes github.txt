@@ -17,3 +17,13 @@ git init
 7 - git commit -m"mensagem" comitar as alteracoes local
 
 8 - git push origin master 
+
+======================================================
+
+1 - inicializar um repositorio git da pasta que queremos	git init
+2 - adicionar os arquivos que queremos com 			git add . 
+3 - criar o commit com a mensagem 				git commit -m"mensagem"
+4 - criar o repositorio no github e copiar a URL
+5 - conectar com o repositorio remoto				git remote add origin (e colar a URL)
+6 - enviar as alteracoes					git push origin master
+
